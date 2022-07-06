@@ -1,0 +1,29 @@
+.section2 {
+  background-color: aqua; }
+
+.Trangtin {
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: red; }
+
+.f {
+  background-color: black;
+  color: white;
+  text-align: center; }
+
+.linksf {
+  color: white;
+  background-color: black; }
+
+.card-img-tb {
+  max-width: 400px;
+  height: 300px; }
+
+.card-img-tc {
+  max-width: 400px;
+  height: 300px; }
+
+.card-img-a {
+  max-width: 400px;
+  height: 300px; }
