@@ -1,0 +1,32 @@
+{
+  "name": "fontendnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "srv/index.js",
+  "scripts": {
+    "start": " nodemon src/index.js",
+    "watch" :"node-sass -w src/main/scss/ -o src/public/css/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HVNuaIT/Giaodien.git"
+  },
+  "keywords": [
+    "GiaoDienWebsite"
+  ],
+  "author": "Nua IT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HVNuaIT/Giaodien/issues"
+  },
+  "homepage": "https://github.com/HVNuaIT/Giaodien#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "express-handlebars": "^6.0.6",
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.18"
+  }
+}
