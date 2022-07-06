@@ -18,9 +18,9 @@
   "author": "Nua IT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HVNuaIT/Giaodien/issues"
+    "url": "https://github.com/HVNuaIT/frontend_Nodejs/issues"
   },
-  "homepage": "https://github.com/HVNuaIT/Giaodien#readme",
+  "homepage": "https://github.com/HVNuaIT/frontend_Nodejs#readme",
   "dependencies": {
     "express": "^4.18.1"
   },
